@@ -1,7 +1,6 @@
 <h1 align="center">Asalaamu calaykum 👋, I'm faarax cabdulaahi cali</h1>
 <h3 align="center">A passionate soft-engineer from puntland-somalia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faaraxcabdulaahi&label=Profile%20views&color=0e75b6&style=flat" alt="faaraxcabdulaahi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faaraxcabdulaahi" alt="faaraxcabdulaahi" /></a> </p>
 
