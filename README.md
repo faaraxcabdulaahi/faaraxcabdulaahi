@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faaraxcabdulaahi&label=Profile%20views&color=0e75b6&style=flat" alt="faaraxcabdulaahi" /> </p>
 
-- 🌱 I’m currently advancing on **reacts js and next js**
+- 🌱 I’m currently advancing on **reacts js framework**
 
-- 💬 Ask me about **Html, Css and javascript**
+- 💬 Ask me about **Html, tailwind CSS and javascript**
 
 - 📫 How to reach me **faaraxcabdullaahicali@gmail.com**
 
