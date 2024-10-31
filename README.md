@@ -1,15 +1,15 @@
-<h1 align="center">Asalaamu calaykum 👋, I'm faarax cabdulaahi cali</h1>
+<h1 align="center">Asalaamu calaykum 👋, I'm faarax cabdulaahi</h1>
 <h3 align="center">A passionate frontend developer from puntland-somalia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faaraxcabdulaahi&label=Profile%20views&color=0e75b6&style=flat" alt="faaraxcabdulaahi" /> </p>
 
-- 🌱 I’m currently advancing on **reacts js framework**
+- 🌱 I’m currently advancing on **fullstack developement**
 
 - 💬 Ask me about **Html, tailwind CSS and javascript**
 
 - 📫 How to reach me **faaraxcabdullaahicali@gmail.com**
 
-- ⚡ Fun fact **I code 7 days a week, no off days**
+- ⚡ Fun fact **Use kali linux as main operating system**
 
 <p align="left">
 </p>
