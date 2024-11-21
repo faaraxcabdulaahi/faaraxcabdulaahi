@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **faaraxcabdullaahicali@gmail.com**
 
-- ⚡ Fun fact **Use kali linux as main operating system**
+- ⚡ Fun fact i **Use kali linux as main operating system**
 
 <p align="left">
 </p>
