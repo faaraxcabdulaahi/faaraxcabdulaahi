@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faaraxcabdulaahi&label=Profile%20views&color=0e75b6&style=flat" alt="faaraxcabdulaahi" /> </p>
 
-- 🌱 I’m currently advancing on **fullstack developement**
+- 🌱 I’m currently advancing on **react js framework**
 
 - 💬 Ask me about **Html, tailwind CSS and javascript**
 
 - 📫 How to reach me **faaraxcabdullaahicali@gmail.com**
 
-- ⚡ Fun fact i **Use kali linux as main operating system**
+- ⚡ Fun fact i **Use kali linux as my main operating system**
 
 <p align="left">
 </p>
