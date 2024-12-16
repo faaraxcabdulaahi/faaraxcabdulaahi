@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Html, tailwind CSS and javascript**
 
-- 📫 How to reach me **faaraxcabdullaahicali@gmail.com**
+- 📫 How to reach me **https://twitter.com/FaarahCabdulahi**
 
 - ⚡ Fun fact i **Use kali linux as my main operating system**
 
