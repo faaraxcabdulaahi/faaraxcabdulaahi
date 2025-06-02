@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faaraxcabdulaahi&label=Profile%20views&color=0e75b6&style=flat" alt="faaraxcabdulaahi" /> </p>
 
-- 🌱 I’m currently advancing on **react js framework**
+- 🌱 I’m currently advancing on **Mern Stack**
 
-- 💬 Ask me about **Html, tailwind CSS and javascript**
+- 💬 Ask me about **Html, tailwind CSS and javascript, React Js**
 
 - 📫 How to reach me **https://twitter.com/FaarahCabdulahi**
 
-- ⚡ Fun fact i **Use kali linux as my main operating system**
+- ⚡ Fun fact i **Use kali linux as my main operating system and hate window**
 
 <p align="left">
 </p>
