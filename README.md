@@ -1,5 +1,5 @@
 <h1 align="center">Asalaamu Calaykum 👋, I'm Faarax Cabdulaahi</h1>
-<h3 align="center">💻 Full-Stack Developer| Linux Enthusiast</h3>
+<h3 align="center">💻 Full-Stack Developer | Linux Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=faaraxcabdulaahi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -16,7 +16,7 @@
 
 ---
 
-### ⚙️ Tech Stack – MERN + Linux
+### ⚙️ Tech Stack – MERN + Linux + MySQL + VS Code
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" title="React.js">
@@ -35,13 +35,21 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.kali.org/" target="_blank" title="Kali Linux">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="45" alt="Kali Linux" />
   </a>
 </p>
 
 <p align="center">
-  <strong>React.js</strong> • <strong>Node.js</strong> • <strong>Express.js</strong> • <strong>MongoDB</strong> • <strong>Kali Linux</strong>
+  <strong>React.js</strong> • <strong>Node.js</strong> • <strong>Express.js</strong> • <strong>MongoDB</strong> • <strong>MySQL</strong> • <strong>VS Code</strong> • <strong>Kali Linux</strong>
 </p>
 
 ---
