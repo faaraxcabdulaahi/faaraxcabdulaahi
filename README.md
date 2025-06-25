@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <b>MongoDB</b> • <b>Express.js</b> • <b>React.js</b> • <b>Node.js</b>
+  <b>MongoDB</b> • <b>Node.js</b> • <b>React.js</b> • <b>Express.js</b>
 </p>
 
 ---
